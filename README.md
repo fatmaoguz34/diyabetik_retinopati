@@ -1,2 +1,2 @@
-# diyabetik_retinopati-
+# diyabetik_retinopati
 Diyabetik Retinopati Tespiti
